@@ -3,7 +3,7 @@ This is a collection of my completed codewars challenges (Katas).
 
 **Link to project:** https://www.codewars.com/users/@kevingrayboston
 
-![alt tag](MY PATH HERE)
+![screenshot of kata challenge from codewar](Photos/Kata%20Screenshot.png)
 
 ## How It's Made:
 
