@@ -24,7 +24,7 @@ Example scoring
  2 4 4 5 4   450:  400 (for three 4s) + 50 (for the 5)
 Note: your solution must not modify the input list.
 """
-
+# Solution 1
 def score(dice: list) -> int:
     final_score = 0
     frequency = {}
